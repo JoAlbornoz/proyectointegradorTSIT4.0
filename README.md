@@ -6,11 +6,20 @@ Pensando en un sistema que centralice y facilite el registro - gestión - promoc
 CulturaConnect *a cambiar*
 
 Registro y gestión de eventos culturales:
-Permite a los organizadores registrar eventos culturales, incluyendo detalles como nombre del evento, fecha, ubicación, tipo de evento (concierto, exposición, obra de teatro, etc.), y participantes.
+Permite a los organizadores registrar eventos culturales, incluyendo detalles como nombre del evento, fecha, ubicación, tipo de evento (concierto, exposición, obra de teatro, etc.), y participantes (Alta, baja y modificación de datos de un evento cultural)
+
+Listado de eventos culturales disponibles por artista u organizador, en orden alfabético
+
+Listado por tipo de evento:
+Se mostrarán los eventos culturales clasificados por su tipo, como conciertos, exposiciones, conferencias, etc.
 
 Búsqueda y exploración de eventos:
 Permite a los usuarios explorar eventos culturales en la comunidad.
 Funciones de búsqueda por tipo de evento, ubicación, fecha, y artistas/participantes.
+
+------------------------------------------------------------------------------------------------
+
+Extra
 
 Interacción y participación:
 Facilita la interacción entre la comunidad permitiendo a los usuarios marcar eventos como favoritos, comentar y compartir en redes sociales.
