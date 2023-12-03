@@ -17,9 +17,6 @@ Funciones de búsqueda por tipo de evento, ubicación, fecha, y artistas partici
 
 A futuro: 
 
-Interacción y participación:
-Facilita la interacción entre la comunidad permitiendo a los usuarios marcar eventos como favoritos, comentar y compartir en redes sociales. Posibilidad de que los organizadores obtengan retroalimentación a través de encuestas y evaluaciones post-evento.
+Ofrecer un espacio para promocionar artistas locales, grupos culturales y proyectos creativos. - Integración de portafolios para artistas participantes.
 
-Promoción cultural:
-Ofrecer un espacio para promocionar artistas locales, grupos culturales y proyectos creativos.
-Integración de portafolios para artistas participantes.
+Facilitar la interacción entre la comunidad permitiendo a gente que no sea de la secretaria loggearse, marcar eventos como favoritos, comentar y compartir en redes sociales. También la posibilidad de que los organizadores obtengan retroalimentación a través de encuestas y evaluaciones post-evento.
